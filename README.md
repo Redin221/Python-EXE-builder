@@ -34,3 +34,5 @@ pyinstaller --onefile --windowed --name EXEBUI --add-data "stdin_hook.py:." buil
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+
+![Screenshot (25)](https://github.com/user-attachments/assets/8383449f-d4c2-4fb1-856a-e54711ffed0e)
